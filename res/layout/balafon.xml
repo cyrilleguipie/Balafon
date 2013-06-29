@@ -1,0 +1,92 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@drawable/bg"
+     >
+     
+    
+    
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:gravity="center"
+     >
+     <ImageButton
+    android:layout_width="40dp"
+    android:layout_height="270dp"
+    android:id="@+id/buttonA"
+    android:background="@drawable/planche"
+    android:layout_marginRight="12dip"
+    
+     />
+      <ImageButton
+    android:layout_width="40dp"
+    android:layout_height="260dp"
+    android:id="@+id/buttonB"
+    android:background="@drawable/planche"
+    android:layout_marginRight="12dip"
+     />
+       <ImageButton
+    android:layout_width="40dp"
+    android:layout_height="250dp"
+    android:id="@+id/buttonC"
+    android:background="@drawable/planche"
+    android:layout_marginRight="12dip"
+     />
+        <ImageButton
+    android:layout_width="40dp"
+    android:layout_height="240dp"
+    android:id="@+id/buttonD"
+    android:background="@drawable/planche"
+    android:layout_marginRight="12dip"
+     />
+         <ImageButton
+    android:layout_width="40dp"
+    android:layout_height="220dp"
+    android:id="@+id/buttonE"
+    android:background="@drawable/planche"
+    android:layout_marginRight="12dip"
+     />
+          <ImageButton
+    android:layout_width="40dp"
+    android:layout_height="200dp"
+    android:id="@+id/buttonF"
+    android:background="@drawable/planche"
+    android:layout_marginRight="12dip"
+     />
+           <ImageButton
+    android:layout_width="40dp"
+    android:layout_height="190dp"
+    android:id="@+id/buttonG"
+    android:background="@drawable/planche"
+    android:layout_marginRight="12dip"
+     />
+            <ImageButton
+    android:layout_width="40dp"
+    android:layout_height="170dp"
+    android:id="@+id/buttonH"
+    android:background="@drawable/planche"
+    android:layout_marginRight="12dip"
+     />
+             <ImageButton
+    android:layout_width="40dp"
+    android:layout_height="160dp"
+    android:id="@+id/buttonI"
+    android:background="@drawable/planche"
+    android:layout_marginRight="12dip"
+     />
+              <ImageButton
+    android:layout_width="40dp"
+    android:layout_height="140dp"
+    android:id="@+id/buttonJ"
+    android:background="@drawable/planche"
+     />
+        
+     </LinearLayout>
+
+    
+
+</LinearLayout>
